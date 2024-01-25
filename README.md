@@ -29,7 +29,7 @@
 ## Lista 3
 ### Exercicio 1 - Larissa de Albuquerque Santos
 ### Exercicio 2 - Andréia Martins Ferreira
-### Exercicio 3 - 
+### Exercicio 3 - Sara Webery Back
 ### Exercicio 4 - Marcella Amazonas
 ### Exercicio 5 - Mileine Maciel
 ### Exercicio 6 - Priscila Nakayama
@@ -38,7 +38,7 @@
 ## Lista 4
 ### Exercicio 1 - Mileine Maciel
 ### Exercicio 2 - Andréia Martins Ferreira
-### Exercicio 3 - 
+### Exercicio 3 - Sara Webery Back
 ### Exercicio 4 - Marcella Amazonas
 ### Exercicio 5 - Priscila Nakayama
-### Exercicio 6 - 
+### Exercicio 6 - Sara Webery Back
